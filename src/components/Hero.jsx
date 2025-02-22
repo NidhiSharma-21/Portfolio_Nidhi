@@ -39,7 +39,7 @@ const Hero = () => {
             <motion.a
               whileHover={{ scale: 1.08 }}
               whileTap={{ scale: 0.95 }}
-              href="#contact"
+               href="tel:7427035115"
               className="px-6 py-3 rounded-lg text-lg font-medium border border-gray-600 hover:border-blue-500 transition-all duration-300"
             >
               Contact Me
